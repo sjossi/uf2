@@ -1,1 +1,1 @@
-import uf2conv
+import uf2.uf2conv
